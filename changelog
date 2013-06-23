@@ -1,3 +1,9 @@
+rqt-bag-plugins-snappy (0.1-2) precise; urgency=low
+
+  * adding gitignore file 
+
+ -- Jerome Maye <jerome.maye@mavt.ethz.ch>  Sun, 23 Jun 2013 23:53:50 +0000
+
 rqt-bag-plugins-snappy (0.1-1) precise; urgency=low
 
   * First draft.
